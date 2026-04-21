@@ -1,0 +1,28 @@
+[33m4deb3ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to 4deb3ed
+[33m4deb3ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{1}: reset: moving to 4deb3ed
+[33m4deb3ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{2}: reset: moving to 4deb3ed
+[33m4deb3ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{3}: reset: moving to 4deb3ed
+[33m4deb3ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{4}: reset: moving to 4deb3ed
+[33m4deb3ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{5}: reset: moving to 4deb3ed
+[33m4deb3ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{6}: reset: moving to 4deb3ed
+[33m4deb3ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{7}: reset: moving to 4deb3ed
+[33m4deb3ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{8}: reset: moving to 4deb3ed
+[33m4deb3ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{9}: reset: moving to origin/main
+[33m4deb3ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{10}: commit (merge): 충돌 해결 및 병합 완료
+[33m4719259[m HEAD@{11}: commit: 숫자테스트 2
+[33m303cfa5[m HEAD@{12}: commit: 숫자테스트
+[33m95970da[m HEAD@{13}: reset: moving to HEAD
+[33m95970da[m HEAD@{14}: reset: moving to HEAD~
+[33m54f43eb[m HEAD@{15}: commit (merge): README 제외 불필요한 파일 삭제
+[33m95970da[m HEAD@{16}: commit: 6주차 정리
+[33mfaea9f8[m HEAD@{17}: reset: moving to HEAD
+[33mfaea9f8[m HEAD@{18}: reset: moving to HEAD
+[33mfaea9f8[m HEAD@{19}: reset: moving to HEAD
+[33mfaea9f8[m HEAD@{20}: reset: moving to HEAD
+[33mfaea9f8[m HEAD@{21}: reset: moving to HEAD
+[33mfaea9f8[m HEAD@{22}: reset: moving to HEAD
+[33mfaea9f8[m HEAD@{23}: reset: moving to HEAD
+[33mfaea9f8[m HEAD@{24}: reset: moving to HEAD
+[33mfaea9f8[m HEAD@{25}: reset: moving to HEAD
+[33mfaea9f8[m HEAD@{26}: reset: moving to HEAD
+[33mfaea9f8[m HEAD@{27}: commit (initial): 6주차 중간정리"
