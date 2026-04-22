@@ -34,12 +34,12 @@ num1=num2;
 num2=imsi;
 
 } // 처음 수 보다 끝 수가 작다면 두 수를 바꿔서 저장
-System.out.println("에서 0까지 사이의 0의 배수는 0개입니다.");
+System.out.println(num1 + "에서" + num2 + "까지 사이의"+ n +"의 배수는 0개입니다.");
 System.out.println("그 수는 다음과 같습니다.");
 for(int i=num1;i<=num2;i++){
 
 if(i%n==0){
-System.out.print(i+",");
+System.out.print(i+"]");
 
 
 }
